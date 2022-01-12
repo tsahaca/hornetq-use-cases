@@ -1,0 +1,3 @@
+http://localhost:9080/jms-1.0-SNAPSHOT/rest/v1?count=1&queue=atf&sleep=180&sendToBd=false&name=3MinuteOf1Req
+http://localhost:9080/jms-1.0-SNAPSHOT/rest/v1?count=19&queue=atf&sleep=20&sendToBd=false&name=20SecondsOf19Req
+http://localhost:9080/jms-1.0-SNAPSHOT/rest/v1?count=1&queue=atf&sleep=10&sendToBd=false&name=**10SecondsOf1Req**
