@@ -20,7 +20,7 @@ public class AtfMessage implements Serializable{
 	}
 	@Override
 	public String toString() {
-		return "[message=" + message + ", date=" + date + ", queueName=" + queueName + ", sleep=" + sleep+ "]";
+		return "[message=" + message + ", published-date-time=" + date + ", queueName=" + queueName + ", sleep=" + sleep+ "]";
 	}
 	public String getMessage() {
 		return message;
